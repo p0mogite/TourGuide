@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="banks">Banks</string>
+    <string name="museums">Museums</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="squares">Squares</string>
+    <string name="finearts">The Kyrgyz National Museum of Fine Arts named after Gapar Aitiev is the main artistic treasury of Kyrgyzstan.
+    Kyrgyz folk art developed on the basis of centuries-old traditions,
+        it reflected aesthetic standards and criteria, it found its creative expression of the people’s love for the beautiful.
+The museum collection of works of Kyrgyzstan’s artists allows you to evaluate the development of the local art culture.
+        \nWorking time:  10:00 - 18:00 Tue-Sun
+    </string>
+    <string name="frunze">The museum traces the life and career of Mikhail Frunze - and what is supposed to be the house in which he was born
+        and brought up is preserved on the ground floor (although there is some doubt whether this is the right house).
+        There is an exhibition of the achievements of the city and Kyrgyz Republic during the Soviet period.
+    \nWorking time:  09:30 - 17:30 Tue-Sun</string>
+    <string name="navat">The Navat teahouse is a place dominated by oriental hospitality, traditional cuisine and western service.\nAverage fee: 600 soms.\nWorking time: 10:00 - 00:00 Mon-Sun
+    </string>
+    <string name="victory">Victory square is probably the most impressive square downtown Bishkek.
+        There is the statue of the mother of Kyrgyzstan under the three arches where a fore is always burning.
+        It is commemorating the all those who have fallen through the years for the sake of the country. </string>
+    <string name="central">The Ala Too square is the main and central place in Bishkek, Kyrgyzstan’s capital.
+        One of the Kyrgyz’s favorite spots in the city, Ala Too square is always very busy and hosts many animations and celebrations.</string>
+    <string name="number">996666666</string>
+    <string name="address"><u>pushkina, dom kolotushkina</u></string>
+    <string name="phonefinearts">0312621641</string>
+    <string name="phonefrunze">0312625031</string>
+    <string name="phonenavat">0551621111</string>
+    <string name="addressfinearts">Abdrakhmanov St. 196</string>
+    <string name="addressfrunze">Frunze St. 364</string>
+    <string name="addressnavat">Masaliev St. 28</string>
+    <string name="addressvictory">Ibraimov St. &amp; Frunze St.</string>
+    <string name="addresscentral">Chuy Avenyu &amp; Razzakov St.</string>
+    <string name="toktogul">Toktogul Square is a square in Bishkek, Kyrgyzstan on Teatralnaya Street. It is named in honor Kyrgyz musician Toktogul Satilganov, with a statue to him also on the square. There are many buildings on the square, including the Kyrgyz Union for Consumer Goods, Museum of Fine Arts, Hotel "Kyrgyzstan", and the Opera and Ballet Theater.</string>
+    <string name="addresstoktogul">Sovetsky St. 167</string>
+    <string name="addresskicb">Erkindik, 21</string>
+    <string name="phonekicb">0312620101</string>
+    <string name="kicb">Working time: 09:00 – 12:00, \n 13:00 – 17:00 Mon-Fri</string>
+    <string name="demir">Working time: 09:00 – 17:00 Mon-Fri</string>
+    <string name="addressdemir">Akhunbaev St. 187</string>
+    <string name="phonedemir">0312901964</string>
+    <string name="optima">Working time: 09:00 – 16:00 Mon-Fri</string>
+    <string name="addressoptima">Baitik Baatyr St. 20</string>
+    <string name="phoneoptima">0312905959</string>
+    <string name="greatemptiness">A very unique gallery located on the outskirts of Bishkek City, Kyrgyzstan. This gallery serves as the place for habitat for its creator, the painter Alexey Skreplyov, who surrounded his living space with his works of art -  strange, surreal and fantastic paintings.
+        \n Working time: whole Sunday</string>
+    <string name="addressemptiness">Ormokoev St. 31</string>
+    <string name="phoneemptiness">0312550311</string>
+    <string name="sierra">Sierra is about experience. Coffee, smoothies, brownies, paninis, soups, salads, music and service are all part of bringing you a great experience. Whether you’ve had a tasty drink, time with your friends or just a few hours to work on your computer – we are happy if you had a good experience at one of our cafes!
+    \nworking_hours">monday 07:30–23:00\ntuesday 07:30–23:00\nwednesday 07:30–23:00\nthursday 07:30–23:00\nfriday 07:30–23:00\nsaturday 07:30–23:00\nsunday 07:30–23:00
+    \nAverage fee: 600 soms</string>
+    <string name="addresssierra">Manas, 57/1</string>
+    <string name="phonesierra">0770969664</string>
+    <string name="friends">Friendship is one of the true values in life. How little time we sometimes spend with friends. Let\'s fix this together? Friends Coffee is a place where friends are always with you.
+    \nworking_hours">monday 08:00–00:00\ntuesday 08:00–00:00\nwednesday 08:00–00:00\nthursday 08:00–00:00\nfriday 08:00–00:00\nsaturday 08:00–00:00\nsunday 08:00–00:00
+        \nAverage fee: 700 soms</string>
+    <string name="addressfriends">Toktogul St. 125</string>
+    <string name="phonefriends">0704804444</string>
+
+</resources>
